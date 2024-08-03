@@ -1,0 +1,9 @@
+# Ignore node_modules directories in both frontend and backend
+backend/node_modules/
+backend/.wwebjs_cache
+node_modules/
+
+# Other common ignores
+.env
+dist/
+build/
